@@ -1,0 +1,7 @@
+/.idea/
+/gildedrose/target/
+/unittesting/target/
+/mutation/target/
+/mutation/src/main/java/co/mookeo/domain/EmployeeFixed.java
+/mutation/src/main/java/co/mookeo/domain/CompanyFixed.java
+/mutation/src/test/java/co/mookeo/CompanyTestFixed.java
